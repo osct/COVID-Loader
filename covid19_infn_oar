@@ -1,0 +1,14 @@
+#
+# This file specifies the URL path templates used to download documents from the
+# web site: https://covid19.infn.it
+#
+# URLs may contain patterns corresponding to the following rules:
+#
+# %d - This occurrence will be replaced by the current date in format YYYY-MM-DD
+#
+
+# Record: files
+
+23548: analisi.cpp analisi.h makeAnalysis.cpp
+23546: covid19-root.tar.gz
+23544: *.png

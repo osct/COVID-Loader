@@ -1,0 +1,22 @@
+#
+# This file specifies the URL path templates used to download documents from the
+# web site: https://covid19.infn.it
+#
+# URLs may contain patterns corresponding to the following rules:
+#
+# %d - This occurrence will be replaced by the current date in format YYYY-MM-DD
+#
+
+Dati e codici,https://covid19.infn.it/mappa_nazionale/rootFiles/allFiles.tar.gz
+NuoviCasi Nazionale,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_NuoviCasi.png
+Rth Nazionale,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_R0.png
+Tempo di Raddoppio,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_T2.png
+Tempo Raddoppio Regionali,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_T2Raddoppio.png
+Italy Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Italy.png
+Emilia Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Emilia.png
+Lombardia Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Lombardia.png
+Veneto Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Veneto.png
+World new cases,https://covid19.infn.it/mappa_sommario/risultati/World-NewCases_%d.png
+World Total Cases,https://covid19.infn.it/mappa_sommario/risultati/World-TotalCases_%d.png
+World time to double,https://covid19.infn.it/mappa_sommario/risultati/World-T2_%d.png
+World Rth,https://covid19.infn.it/mappa_sommario/risultati/World-Rth_%d.png
