@@ -8,15 +8,27 @@
 #
 
 Dati e codici,https://covid19.infn.it/mappa_nazionale/rootFiles/allFiles.tar.gz
-NuoviCasi Nazionale,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_NuoviCasi.png
-Rth Nazionale,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_R0.png
-Tempo di Raddoppio,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_nazionale_T2.png
-Nuovi Casi Regionali,https://covid19.infn.it/mappa_sommario/risultati/mauro_%d_NCRegioni.png
-Italy Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Italy.png
-Emilia Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Emilia.png
-Lombardia Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Lombardia.png
-Veneto Summary,https://covid19.infn.it/mappa_sommario/risultati/roberto_%d_Veneto.png
-World new cases,https://covid19.infn.it/mappa_sommario/risultati/World-NewCases_%d.png
-World Total Cases,https://covid19.infn.it/mappa_sommario/risultati/World-TotalCases_%d.png
-World time to double,https://covid19.infn.it/mappa_sommario/risultati/World-T2_%d.png
-World Rth,https://covid19.infn.it/mappa_sommario/risultati/World-Rth_%d.png
+Ita casi giornalieri,https://covid19.infn.it/sommario/plots/italia_totale_casi_giornalieri_gray.png
+Lom casi giornalieri,https://covid19.infn.it/sommario/plots/lombardia_totale_casi_giornalieri_gray.png
+Ita R,https://covid19.infn.it/sommario/plots/italia_comparativa_r_th.png
+Ita raddoppio,https://covid19.infn.it/sommario/plots/italia_comparativa_totale_casi_t2.png
+Ita somm,https://covid19.infn.it/sommario/plots/italia_sommario.png
+Reg pos vs Ita,https://covid19.infn.it/sommario/plots/regioni_incrementi_totale_casi_media.png
+Reg pos,https://covid19.infn.it/sommario/plots/regioni_comparativa_totale_positivi.png
+Ita tamp pos,https://covid19.infn.it/sommario/plots/italia_totale_casi_e_tamponi_giornalieri.png
+Lom Somm,https://covid19.infn.it/sommario/plots/lombardia_sommario.png
+Lom pos,https://covid19.infn.it/sommario/plots/lombardia_totale_casi_giornalieri.png
+Lom dec,https://covid19.infn.it/sommario/plots/lombardia_deceduti_giornalieri.png
+Lom tamp pos,https://covid19.infn.it/sommario/plots/lombardia_totale_casi_e_tamponi_giornalieri.png
+Piem Somm,https://covid19.infn.it/sommario/plots/piemonte_sommario.png
+Piem pos,https://covid19.infn.it/sommario/plots/piemonte_totale_casi_giornalieri.png
+Piem dec,https://covid19.infn.it/sommario/plots/piemonte_deceduti_giornalieri.png
+Piem tamp pos,https://covid19.infn.it/sommario/plots/piemonte_totale_casi_e_tamponi_giornalieri.png
+EmR Somm,https://covid19.infn.it/sommario/plots/emilia_romagna_sommario.png
+EmR pos,https://covid19.infn.it/sommario/plots/emilia_romagna_totale_casi_giornalieri.png
+EmR dec,https://covid19.infn.it/sommario/plots/emilia_romagna_deceduti_giornalieri.png
+EmR tamp pos,https://covid19.infn.it/sommario/plots/emilia_romagna_totale_casi_e_tamponi_giornalieri.png
+Mondo pos,https://covid19.infn.it/sommario/plots/world_confirmed.png
+Mondo pos vs tot,https://covid19.infn.it/sommario/plots/world_incrementi_confirmed_media.png
+Mondo pos att,https://covid19.infn.it/sommario/plots/world_confirmed_t2.png
+Mondo R,https://covid19.infn.it/sommario/plots/world_r_th.png
